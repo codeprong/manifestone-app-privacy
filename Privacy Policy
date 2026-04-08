@@ -1,35 +1,109 @@
-Privacy Policy
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Privacy Policy - Driving Test App</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #0D1B2A, #1B263B, #4B0082);
+            color: #ffffff;
+            font-weight: bold;
+            line-height: 1.6;
+            padding: 40px;
+        }
 
-Meditation App (“we”, “our”, “the app”) respects your privacy. This Privacy Policy explains how we handle your information.
+        h1, h2 {
+            font-weight: bold;
+            margin-top: 1.5em;
+            margin-bottom: 0.5em;
+        }
 
-1. Information We Collect
+        h1 {
+            font-size: 2.5em;
+            text-align: center;
+            margin-bottom: 1em;
+        }
 
-This app does not collect, store, or share any personal information. You can use the app completely offline without providing any data.
+        p, ul {
+            font-size: 1.1em;
+        }
 
-2. Third-Party Services
+        ul {
+            padding-left: 20px;
+        }
 
-The app may use third-party services provided by Google, which may collect certain information automatically. These services include:
+        li {
+            margin-bottom: 0.5em;
+        }
 
-Google Play Services
+        a {
+            color: #ffffff; 
+            text-decoration: underline;
+        }
 
-Crash reporting tools (if any)
+        hr {
+            border: 0.5px solid #ffffff;
+            margin: 2em 0;
+        }
 
-These third-party services are governed by their own privacy policies. We do not control their data collection.
+        p.footer {
+            font-size: 0.9em;
+            text-align: center;
+            margin-top: 1em;
+        }
+    </style>
+</head>
+<body>
 
-3. Children’s Privacy
+    <h1>Privacy Policy</h1>
 
-Our app is not intended for children under 13. We do not knowingly collect any data from children.
+    <p><strong>Driving Test App</strong> (“we”, “our”, “the app”) respects your privacy. This Privacy Policy explains how we handle your information.</p>
 
-4. Data Security
+    <h2>1. Information We Collect</h2>
+    <p>This app does <strong>not collect, store, or share any personal information</strong>. You can use the app completely without providing any data.</p>
 
-Since the app does not collect personal data, we do not store or process any sensitive information. Any data used by third-party services is managed according to their policies.
+    <h2>2. Content and Data Sources</h2>
+    <p>All questions, answers, and image assets used in this app are based on <strong>publicly available and government-provided materials</strong> for driving theory tests.</p>
 
-5. Changes to This Policy
+    <ul>
+        <li>The content is intended for educational and practice purposes only</li>
+        <li>We do not claim ownership of official government materials</li>
+        <li>All materials are used to help users prepare for driving exams</li>
+    </ul>
 
-We may update this Privacy Policy in the future. The most recent version will always be available at this URL.
+    <h2>3. Third-Party Services</h2>
+    <p>The app may use third-party services provided by Google, such as:</p>
 
-6. Contact Us
+    <ul>
+        <li>Google Play Services</li>
+        <li>Crash reporting tools (if applicable)</li>
+    </ul>
 
-If you have any questions or concerns, you can contact us at:
+    <p>These services may collect limited, non-personal technical data according to their own privacy policies.</p>
 
-ernelyana[at]gmail.com
+    <h2>4. Data Security</h2>
+    <p>Since the app does not collect personal data, no personal information is stored or processed by the app.</p>
+
+    <h2>5. Children’s Privacy</h2>
+    <p>This app is not intended for children under the age of 13. We do not knowingly collect any data from children.</p>
+
+    <h2>6. Disclaimer</h2>
+    <p>This app is an independent educational tool and is <strong>not affiliated with or endorsed by any government authority</strong>.</p>
+
+    <p>While the content is based on official materials, users should always refer to official sources for the most accurate and up-to-date information.</p>
+
+    <h2>7. Changes to This Policy</h2>
+    <p>We may update this Privacy Policy from time to time. The latest version will always be available on this page.</p>
+
+    <h2>8. Contact</h2>
+    <p>If you have any questions, you can contact us at:<br>
+    <a href="mailto:your@email.com">your@email.com</a></p>
+
+    <hr>
+
+    <p class="footer">&copy; 2026 Driving Test App. All rights reserved.</p>
+
+</body>
+</html>
